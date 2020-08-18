@@ -1,5 +1,5 @@
-# Random3DTerrain
-Procedural 3D Terrain Generation using Generative Adversarial Networks
+# Procedural3DTerrain
+Procedural 3D Terrain Generation using Generative Adversarial Networks (GANs)
 
 
 A proposed method for generating random 3D lanscapes, imitating real data of satellite images and their respective Digital Elevation Models.
